@@ -1,4 +1,8 @@
 ### Hi there 👋
+I am a system software engineer with a broad range of knowledge in creating software at different levels. I am skilled in popular programming languages like Java, python, PHP, JavaScript... I also have decent knowledge of Compiler Construction and JVM technology. I have hands-on experience in web development, which allows me to work effectively on existing projects. I am a quick learner and pay close attention to detail, ensuring the quality of my work. Additionally, I have advanced skills in x86 assembly reverse engineering, enabling me to tackle complex problems efficiently. My total skillset: 
+•	Languages: C#, Java, JavaScript, Python, Kotlin, PHP, SQL, NodeJs
+•	Technologies & Frameworks: Spring, Strust, JPA, Mybatis, Junit, Angular, VueJs
+•	Skills: Data structures and algorithms, OOP&D, SOLID Principles, Programming Languages Paradigms and Design; Reverse Engineering; Web Development, Socket Programming and Network-Based Applications; Software Architecture and Design, Research Skills.
 
 <!--
 **phubkhn/phubkhn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
